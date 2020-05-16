@@ -189,6 +189,19 @@ st.write(run_fxn())
 
 #st.balloons()
 
+# Plot
+
+st.pyplot()
+
+# dataframes
+
+st.dataframe(df)
+
+# tables 
+
+st.table(df)
+
+
 
 # More info from here
 
